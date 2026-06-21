@@ -23,3 +23,15 @@ Clot features feed a logistic regression classifier that labels each sample LC o
 ## Segmentation network
 
 The network used here differs slightly from the base architecture; the actual one will be released after legal approval. Microclot segmentation labels are available on request.
+
+## Study
+ 
+This work was led by Massachusetts General Hospital (MGH).
+ 
+Kirandeep K. Gill, Laurids Stockert, Bryan Alvarez-Carcamo, Jaime Greatorex, Carly Steifman, Zoe Swank, David R. Walt, Michael B. VanElzakker, Lael M. Yonker, Daniel Irimia\*
+ 
+\*Corresponding author: Daniel Irimia.
+ 
+A preprint will follow shortly.
+ 
+
